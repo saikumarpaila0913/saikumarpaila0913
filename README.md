@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm paila gandhi sai kumar</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">I am Gandhi Sai Kumar, a seasoned Master Engineer with a strong background in tower construction, electrical work, and solar projects at Reliance Industries Ltd. I hold a degree from AIMS College of Engineering and have a robust foundation in Full Stack Web Development, specializing in backend technologies.
+
+In my tenure at Reliance Industries, I have garnered extensive experience in managing tower construction, overseeing electrical installations, and implementing solar projects. My responsibilities included ensuring seamless fiber connectivity and managing various aspects of construction and maintenance.
+
+Motivated by a passion for continuous learning and growth, I took a step further in my career by enrolling in Geekster to enhance my skills in Full Stack Web Development. Throughout the program, I deepened my understanding of Java, GitHub, Spring Boot, OOPs concepts, Java DSA, Maven, and Swagger. Additionally, I gained proficiency in utilizing markdown language for documentation purposes.
+
+I have successfully applied my acquired knowledge by developing backend systems for several projects, including a Task Manager, Food Delivery App, and E-commerce App. These projects, deployed on AWS, showcase my ability to design, implement, and deploy scalable and efficient backend solutions.
+
+My commitment to quality and innovation is reflected in my work, where I leverage industry best practices to deliver robust and reliable backend systems. I am eager to bring my skills and expertise to a dynamic software company where I can contribute to the development of cutting-edge technologies and solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikumarpaila0913" alt="saikumarpaila0913" /></a> </p>
 
